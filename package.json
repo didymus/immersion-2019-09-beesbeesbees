@@ -1,0 +1,13 @@
+{
+  "name": "beesbeesbees",
+  "private": true,
+  "scripts": {
+    "test": "http-server -c-1"
+  },
+  "dependencies": {
+    "chai": "^4.1.1",
+    "jquery": "^3.2.1",
+    "mocha": "^3.5.0",
+    "underscore": "^1.8.3"
+  }
+}
