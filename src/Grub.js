@@ -8,9 +8,7 @@ const Grub = function() {
     this.color = 'pink';
     this.food = 'jelly';
 };
-
 Grub.prototype.eat = function(){
 //om nom nom nom
 };
-
 window.Grub = Grub;
