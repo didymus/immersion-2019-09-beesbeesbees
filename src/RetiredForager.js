@@ -11,6 +11,7 @@
 // [X] an eat method that is inherited from grub
 // [X] a treasureChest property inherited from ForagerBee that is set to an empty array[]
 // [X] an always winning gamble method that allows the bee to add a treasure to the treasureChest
+// 🐝
 const RetiredForagerBee = function() {
     ForagerBee.call(this);
     this.age = 40;

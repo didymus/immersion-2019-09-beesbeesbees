@@ -10,6 +10,7 @@
 // [X] a canFly property that is set true
 // [X] a treasureChest property that is set to an empty array[]
 // [X] a forage method that allows the bee to add a treasure to the treasureChest
+// 🐝
 const ForagerBee = function() {
     Bee.call(this);
     this.age = 10;

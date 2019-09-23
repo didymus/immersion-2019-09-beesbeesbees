@@ -7,6 +7,7 @@
 // [X] a food property that is inherited from grub
 // [X] an eat method that is inherited from grub
 // [X] a job property that is set to keep on growing
+// 🐝
 const Bee = function() {
     Grub.call(this);
     this.age = 5;
